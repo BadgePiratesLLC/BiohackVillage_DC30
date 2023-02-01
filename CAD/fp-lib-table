@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "Biohacking Village Badge - Gutz-Girl")(type KiCad)(uri "$(KIPRJMOD)/Biohacking Village Badge - Gutz-Girl.pretty")(options "")(descr ""))
+)
